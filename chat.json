@@ -6,5 +6,13 @@
         "source": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "context": {}
+    },
+    {
+        "id": "e62da2fe-2b14-492d-82fb-9315d3d590ce",
+        "timestamp": "2024-10-14T17:14:07.682125Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "context": null
     }
 ]
