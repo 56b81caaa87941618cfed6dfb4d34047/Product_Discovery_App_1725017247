@@ -238,5 +238,13 @@
         "source": "base_assistant",
         "content": "Has seleccionado el `simple_cta_component_1725017252.js`. \u00bfQu\u00e9 te gustar\u00eda hacer con este componente? Puedes personalizar su contenido, dise\u00f1o o funcionalidad.",
         "context": null
+    },
+    {
+        "id": "830bbf05-47d2-4940-addf-9df18e0972da",
+        "timestamp": "2024-10-15T13:45:51.321669Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Cambia su dise\u00f1o a glassmorphic",
+        "context": null
     }
 ]
