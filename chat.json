@@ -302,5 +302,13 @@
         "source": "base_assistant",
         "content": "I don't have access to the current time, but I'm here to help you with your app-building project! Let me know how you'd like to proceed with your dog walking app.",
         "context": null
+    },
+    {
+        "id": "8f23a3dc-5400-4bda-888a-fae45001cd91",
+        "timestamp": "2024-10-15T13:53:31.525232Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What's the name of my app?",
+        "context": null
     }
 ]
