@@ -206,5 +206,13 @@
         "source": "base_assistant",
         "content": "No tienes ning\u00fan componente seleccionado actualmente. \u00bfTe gustar\u00eda seleccionar uno de los componentes disponibles para trabajar en \u00e9l?",
         "context": null
+    },
+    {
+        "id": "3664ba69-d92e-46fd-aa01-23ba61ab3530",
+        "timestamp": "2024-10-15T13:45:09.581262Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "S\u00ed",
+        "context": null
     }
 ]
