@@ -22,5 +22,13 @@
         "source": "web_client",
         "content": "hi",
         "context": null
+    },
+    {
+        "id": "c952901b-877a-4ee0-a97a-5aad25118562",
+        "timestamp": "2024-10-15T09:00:40.653984Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hello! How can I assist you with your app-building project today? Are you working on a specific feature or need help getting started?",
+        "context": null
     }
 ]
