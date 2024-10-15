@@ -310,5 +310,13 @@
         "source": "web_client",
         "content": "What's the name of my app?",
         "context": null
+    },
+    {
+        "id": "1cedfe28-90dc-4e79-8598-861c4c82afcd",
+        "timestamp": "2024-10-15T13:53:34.069157Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "You haven't specified a name for your dog walking app yet. Would you like to come up with one together?",
+        "context": null
     }
 ]
