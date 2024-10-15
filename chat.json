@@ -126,5 +126,13 @@
         "source": "base_assistant",
         "content": "I'm your MakeInfinite AI assistant, here to help you build your app. Let's focus on your dog walking app. Here are a few ideas on what you might want to include:\n\n1. **User Profiles:** For both dog owners and dog walkers.\n2. **Booking System:** Allow users to schedule and book dog walks.\n3. **GPS Tracking:** Real-time tracking so owners know where their dogs are.\n4. **Payment Integration:** Secure payment gateway for services.\n5. **Reviews and Ratings:** Allow users to review and rate the dog walkers.\n6. **Notifications:** Alerts for bookings, cancellations, and updates.\n7. **Chat Functionality:** Communication between dog owners and walkers.\n8. **Dog Profiles:** Include information about the dogs such as breed, age, and special needs.\n\nWould you like to start with any specific feature, or do you have other functionalities in mind?",
         "context": null
+    },
+    {
+        "id": "b674db41-7d8b-4eeb-8d27-a95a1cfba685",
+        "timestamp": "2024-10-15T09:27:40.335198Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what can you do?",
+        "context": null
     }
 ]
