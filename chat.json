@@ -214,5 +214,13 @@
         "source": "web_client",
         "content": "S\u00ed",
         "context": null
+    },
+    {
+        "id": "df6231b8-d8b2-4530-932f-5232f7c6d3de",
+        "timestamp": "2024-10-15T13:45:13.797339Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Perfecto. \u00bfCu\u00e1l de los componentes disponibles te gustar\u00eda seleccionar para comenzar a trabajar? Tienes estas opciones:\n\n- `simple_footer_component_1725017252.js`\n- `simple_header_component_1725017252.js`\n- `simple_cta_component_1725017252.js`\n- `simple_hero_component_1725017252.js` \n\nDime cu\u00e1l eliges y c\u00f3mo te gustar\u00eda proceder.",
+        "context": null
     }
 ]
