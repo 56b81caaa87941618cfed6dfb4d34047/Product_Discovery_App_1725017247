@@ -158,5 +158,13 @@
         "source": "base_assistant",
         "content": "I can help you build your app using the MakeInfinite no-code app builder studio. Whether you need assistance with creating SQL queries over on-chain indexed data, designing app interfaces, or configuring features, I'm here to guide you through the process.\n\nHow would you like to get started with your app today?",
         "context": null
+    },
+    {
+        "id": "e30c3e13-53b6-4f2a-b250-40e217eebaec",
+        "timestamp": "2024-10-15T09:38:59.401398Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Let's think about a color schema",
+        "context": null
     }
 ]
