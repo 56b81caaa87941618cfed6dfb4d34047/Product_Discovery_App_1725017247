@@ -54,5 +54,13 @@
         "source": "web_client",
         "content": "I want to build a dog walking app. Do you have ideas on what to include?",
         "context": null
+    },
+    {
+        "id": "73b5a663-87ca-46ce-ae81-f7adbb8053fc",
+        "timestamp": "2024-10-15T09:03:00.173881Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hello! How can I assist you with your app-building project today? Are you working on a particular feature or need help starting out?",
+        "context": null
     }
 ]
