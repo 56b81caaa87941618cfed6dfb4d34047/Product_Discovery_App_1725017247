@@ -94,5 +94,13 @@
         "source": "base_assistant",
         "content": "I'm the MakeInfinite AI assistant, here to help you build your app using the MakeInfinite no-code app builder studio. Let's dive into your project! What specific features are you thinking of including in your dog walking app?",
         "context": null
+    },
+    {
+        "id": "a5b37020-408f-4096-91ea-87085a665e0c",
+        "timestamp": "2024-10-15T09:21:09.251126Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what is your name?",
+        "context": null
     }
 ]
