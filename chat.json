@@ -254,5 +254,13 @@
         "source": "base_assistant",
         "content": "Para aplicar un dise\u00f1o glassmorphic al `simple_cta_component_1725017252.js`, considera enfocarte en aspectos como un fondo semitransl\u00facido, bordes difuminados, y un sutil desenfoque detr\u00e1s del componente. Adem\u00e1s, puedes usar colores suaves y un poco de sombra para darle un efecto de elevaci\u00f3n.\n\n\u00bfTe gustar\u00eda que te d\u00e9 m\u00e1s instrucciones sobre c\u00f3mo personalizarlo o trabajar en alg\u00fan aspecto espec\u00edfico del dise\u00f1o?",
         "context": null
+    },
+    {
+        "id": "b3a91ffe-5835-4a90-abb3-1e98645e9ae7",
+        "timestamp": "2024-10-15T13:48:48.782460Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What have we talked about previously?",
+        "context": null
     }
 ]
