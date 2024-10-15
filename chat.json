@@ -46,5 +46,13 @@
         "source": "base_assistant",
         "content": "Hi there! How can I help you today? Are you working on building an app or do you need assistance with a specific feature or query?",
         "context": null
+    },
+    {
+        "id": "e1e0e178-729c-4914-966f-ec9fcb1b67b6",
+        "timestamp": "2024-10-15T09:02:57.518854Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want to build a dog walking app. Do you have ideas on what to include?",
+        "context": null
     }
 ]
