@@ -62,5 +62,13 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you with your app-building project today? Are you working on a particular feature or need help starting out?",
         "context": null
+    },
+    {
+        "id": "9252ee2e-6bf1-4e95-bf56-f03b3953ba77",
+        "timestamp": "2024-10-15T09:03:42.895640Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "who are you?",
+        "context": null
     }
 ]
