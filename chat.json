@@ -190,5 +190,13 @@
         "source": "base_assistant",
         "content": "The current components in your project are:\n\n- `simple_footer_component_1725017252.js`\n- `simple_header_component_1725017252.js`\n- `simple_cta_component_1725017252.js`\n- `simple_hero_component_1725017252.js`\n\nYou can use these components to help structure your app. Do you want to work on any of these components specifically?",
         "context": null
+    },
+    {
+        "id": "d8b3508a-2bf8-45a8-8a6d-5bdac5479c12",
+        "timestamp": "2024-10-15T13:44:39.088312Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Tengo alg\u00fan componente seleccionado actualmente?",
+        "context": null
     }
 ]
