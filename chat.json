@@ -14,5 +14,13 @@
         "source": "web_client",
         "content": "hi",
         "context": null
+    },
+    {
+        "id": "45d74ec1-7198-479c-91e0-682e2c92feab",
+        "timestamp": "2024-10-15T09:00:37.555671Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "context": null
     }
 ]
