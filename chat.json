@@ -334,5 +334,13 @@
         "source": "base_assistant",
         "content": "You haven't mentioned a specific name for your project either. Would you like to choose or create a name for your dog walking app?",
         "context": null
+    },
+    {
+        "id": "8676431b-d3b9-49e7-8b7c-54a6d17a3a2c",
+        "timestamp": "2024-10-15T13:53:53.980099Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Am I frustrating you?",
+        "context": null
     }
 ]
