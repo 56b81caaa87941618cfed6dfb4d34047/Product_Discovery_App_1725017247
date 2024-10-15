@@ -38,5 +38,13 @@
         "source": "web_client",
         "content": "hi",
         "context": null
+    },
+    {
+        "id": "74d1710d-96fb-47a0-b39f-0fe94ca80e6f",
+        "timestamp": "2024-10-15T09:02:31.658367Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hi there! How can I help you today? Are you working on building an app or do you need assistance with a specific feature or query?",
+        "context": null
     }
 ]
