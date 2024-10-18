@@ -438,5 +438,13 @@
         "source": "web_client",
         "content": "what is the weather like where you live?",
         "metadata": {}
+    },
+    {
+        "id": "fe4c3b81-3159-4ad5-9ce9-ccfc154bc15b",
+        "timestamp": "2024-10-18T12:35:31.885620Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "I'm here to assist you with your app development rather than personal topics. Let's focus on your dog walking app! Would you like to continue discussing the dog profiles feature or work on another aspect of your app?",
+        "metadata": {}
     }
 ]
