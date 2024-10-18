@@ -358,5 +358,13 @@
         "source": "web_client",
         "content": "Hi, do you know what time it is?",
         "metadata": {}
+    },
+    {
+        "id": "66125237-ba43-4201-a47f-656079838e85",
+        "timestamp": "2024-10-18T09:19:49.858005Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {}
     }
 ]
