@@ -470,5 +470,13 @@
         "source": "web_client",
         "content": "hi",
         "metadata": {}
+    },
+    {
+        "id": "147c56e5-5c96-4ab3-a439-e8f5fa5c9ae3",
+        "timestamp": "2024-10-18T13:38:12.420131Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {}
     }
 ]
