@@ -366,5 +366,13 @@
         "source": "web_client",
         "content": "hi",
         "metadata": {}
+    },
+    {
+        "id": "1a2c46c5-6d01-4cab-a78b-8fc80fcf05ee",
+        "timestamp": "2024-10-18T10:13:39.011084Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {}
     }
 ]
