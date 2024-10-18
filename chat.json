@@ -382,5 +382,13 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you today with your app? Are you looking to work on a specific feature or component?",
         "metadata": {}
+    },
+    {
+        "id": "900e7c3a-aa32-45ad-b9ce-0a4d61e8ba1d",
+        "timestamp": "2024-10-18T10:14:05.368466Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you tell me what time it is?",
+        "metadata": {}
     }
 ]
