@@ -374,5 +374,13 @@
         "source": "web_client",
         "content": "hi",
         "metadata": {}
+    },
+    {
+        "id": "36bcef00-03a1-479c-a1a5-6d616df06504",
+        "timestamp": "2024-10-18T10:13:41.570825Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hello! How can I assist you today with your app? Are you looking to work on a specific feature or component?",
+        "metadata": {}
     }
 ]
