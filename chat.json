@@ -526,5 +526,13 @@
         "source": "web_client",
         "content": "what time is it now?",
         "metadata": {}
+    },
+    {
+        "id": "e3902892-6a37-4260-8ca6-999d93263fd2",
+        "timestamp": "2024-10-18T13:41:11.823839Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The current time is 3:41 PM. How can I assist you with your app today?",
+        "metadata": {}
     }
 ]
