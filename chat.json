@@ -862,5 +862,13 @@
         "source": "web_client",
         "content": "Can you make the component text be in french?",
         "metadata": {}
+    },
+    {
+        "id": "fee4d9a1-ab52-45bf-8769-3247d92e713f",
+        "timestamp": "2024-10-24T13:46:07.303317Z",
+        "role": "assistant",
+        "source": "edit_component",
+        "content": "I'm editing the component for you. This may take a few seconds.",
+        "metadata": {}
     }
 ]
