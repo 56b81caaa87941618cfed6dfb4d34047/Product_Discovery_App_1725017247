@@ -902,5 +902,13 @@
         "source": "web_client",
         "content": "are you there?",
         "metadata": {}
+    },
+    {
+        "id": "49bf709f-4978-43c0-a646-e3a305a2aca8",
+        "timestamp": "2024-10-24T13:54:02.547625Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {}
     }
 ]
