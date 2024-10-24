@@ -598,5 +598,13 @@
         "source": "base_assistant",
         "content": "I can help with that! Please let me know what specific text you want in Spanish for the footer, and I'll make the changes for you.",
         "metadata": {}
+    },
+    {
+        "id": "005b531f-5a1b-4ecf-a4c5-0476460c507e",
+        "timestamp": "2024-10-24T13:14:34.358555Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Just translate what there currently is there to spanish",
+        "metadata": {}
     }
 ]
