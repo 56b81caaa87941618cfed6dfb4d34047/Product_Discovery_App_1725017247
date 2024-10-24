@@ -894,5 +894,13 @@
         "source": "web_client",
         "content": "hi",
         "metadata": {}
+    },
+    {
+        "id": "230995ca-5490-48eb-b934-fccc2c2c6fd2",
+        "timestamp": "2024-10-24T13:52:20.312074Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "are you there?",
+        "metadata": {}
     }
 ]
