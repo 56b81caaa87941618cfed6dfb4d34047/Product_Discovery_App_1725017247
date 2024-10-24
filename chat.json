@@ -854,5 +854,13 @@
         "source": "base_assistant",
         "content": "I'm editing the component for you. This may take a few seconds.",
         "metadata": {}
+    },
+    {
+        "id": "a3885488-94e8-4e6d-bfdc-a64d58e0a852",
+        "timestamp": "2024-10-24T13:46:02.828486Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you make the component text be in french?",
+        "metadata": {}
     }
 ]
