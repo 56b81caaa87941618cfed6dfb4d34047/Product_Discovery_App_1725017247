@@ -638,5 +638,13 @@
         "source": "base_assistant",
         "content": "I've initiated the text translation for your footer component to Spanish. If you need anything else or want to work on another component, just let me know!",
         "metadata": {}
+    },
+    {
+        "id": "2ac036d9-9db1-4cd0-9e61-24050ec0ae9b",
+        "timestamp": "2024-10-24T13:18:41.437692Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Now I need you to make the text in french please",
+        "metadata": {}
     }
 ]
