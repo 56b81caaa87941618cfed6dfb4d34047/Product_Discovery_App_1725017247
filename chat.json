@@ -574,5 +574,13 @@
         "source": "web_client",
         "content": "What components do you see?",
         "metadata": {}
+    },
+    {
+        "id": "0c1cadff-904a-40de-ad0b-79423f345641",
+        "timestamp": "2024-10-24T13:13:17.915093Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The components in your project are:\n\n- `simple_footer_component_1725017252.js`\n- `simple_header_component_1725017252.js`\n- `simple_cta_component_1725017252.js`\n- `simple_hero_component_1725017252.js`\n\nWhich one would you like to work on?",
+        "metadata": {}
     }
 ]
