@@ -910,5 +910,13 @@
         "source": "web_client",
         "content": "hi",
         "metadata": {}
+    },
+    {
+        "id": "91b195be-8a6b-40bb-a7cb-8cd5e1bbd97c",
+        "timestamp": "2024-10-24T13:55:28.527712Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {}
     }
 ]
